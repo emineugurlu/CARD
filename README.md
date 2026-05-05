@@ -2,7 +2,7 @@
 
 > **"A realistic, interactive bank card component exploring CSS 3D perspectives, backface-visibility orchestration, and skeuomorphic design principles."**
 
-![Repo Size](https://img.shields.io/github/repo-size/emineugurlu/CARD?color=green&style=flat-square)
+![Code Size](https://img.shields.io/github/languages/code-size/emineugurlu/CARD?color=green&style=flat-square)
 ![Language Count](https://img.shields.io/github/languages/count/emineugurlu/CARD?color=green&style=flat-square)
 ![UI Style](https://img.shields.io/badge/Design-Skeuomorphic-blue?style=flat-square)
 
